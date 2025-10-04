@@ -4,7 +4,7 @@ const MAX_GUESSES = 8;
 // Removed: const API_URL_ENGLISH = 'https://random-word-api.herokuapp.com/word?number=1';
 
 // 💡 NEW: Define the secret word directly in the script
-const HARDCODED_WORD = 'HANGMAN'; 
+const HARDCODED_WORD = 'nigger'; 
 
 let secretWord = '';
 let guessedLetters = [];
